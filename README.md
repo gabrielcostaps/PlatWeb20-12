@@ -1,0 +1,1 @@
+Professor, o repositório ficou dividido em dois diretórios (questão 1 e questão 2) por ter sido aproveitado da semana passada, mas para correção da atividade atual o código pertinente é do diretório "questão 2"
